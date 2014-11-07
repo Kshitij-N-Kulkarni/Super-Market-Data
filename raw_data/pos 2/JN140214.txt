@@ -1,0 +1,5619 @@
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115455
+Date : 14/02/2014     Time: 10:56:48
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MILK 500ML     2.00     20.00     40.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 40.00
+---------------------------------------
+Tendered-CASH             RS      40.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115456
+Date : 14/02/2014     Time: 10:57:28
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+NIPPO GOLD A   3.00     10.00     30.00
+EGG           12.00      4.50     54.00
+---------------------------------------
+Items/Qty :   2/  15
+TOTAL       RS 84.00
+---------------------------------------
+Tendered-CASH             RS     504.00
+Change  -CASH             RS     420.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115457
+Date : 14/02/2014     Time: 10:59:05
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+NESTLE TONED   2.00     65.00    130.00
+NESTLE FRESH   1.00     25.00     25.00
+CHUDUVA 500G   1.00     22.00     22.00
+BRITANNIA BR   1.00     26.00     26.00
+B RAVA 1KG     1.00     38.00     38.00
+UDATH ROUND    1.00     44.00     44.00
+PUTANALU 500   1.00     38.00     38.00
+RAJAMA WHITE   1.00     70.00     70.00
+DABUR TOMATO   1.00     20.00     20.00
+ONIONS         1.00     20.00     20.00
+---------------------------------------
+Items/Qty :  10/  11
+TOTAL      RS 433.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS      67.00
+---------------------------------------
+        You have saved RS 15.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115458
+Date : 14/02/2014     Time: 11:18:31
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+HERITAGE CUR   1.00     40.00     40.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 40.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      60.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115459
+Date : 14/02/2014     Time: 11:26:33
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MINUTE MAID    1.00     60.00     60.00
+COCONUT 1P     1.00     15.00     15.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 75.00
+---------------------------------------
+Tendered-SODEXO           RS      50.00
+Tendered-CASH             RS      25.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115460
+Date : 14/02/2014     Time: 11:41:41
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+GOOD DAY JAM   1.00     25.00     25.00
+CADBURY GEMS   1.00      5.00      5.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 30.00
+---------------------------------------
+Tendered-CASH             RS    1000.00
+Change  -CASH             RS     970.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115461
+Date : 14/02/2014     Time: 11:42:32
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+TOOR DALL 1K   1.00     84.00     84.00
+JEERA 100G     1.00     25.00     25.00
+MILK 500ML     1.00     20.00     20.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL      RS 129.00
+---------------------------------------
+Tendered-CASH             RS     150.00
+Change  -CASH             RS      21.00
+---------------------------------------
+        You have saved RS 3.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115462
+Date : 14/02/2014     Time: 11:43:37
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MILK 500ML     2.00     20.00     40.00
+HERITAGE DOO   1.00     70.00     70.00
+---------------------------------------
+Items/Qty :   2/   3
+TOTAL      RS 110.00
+---------------------------------------
+Tendered-CASH             RS    1010.00
+Change  -CASH             RS     900.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115463
+Date : 14/02/2014     Time: 11:44:48
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CADBURY DAIR   1.00    125.00    125.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL      RS 125.00
+---------------------------------------
+Tendered-CASH             RS      60.00
+Tendered-CASH             RS      65.00
+---------------------------------------
+        You have saved RS 10.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115464
+Date : 14/02/2014     Time: 11:49:43
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KAMAL MEAL M   1.00     25.00     25.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 25.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      75.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115465
+Date : 14/02/2014     Time: 11:51:46
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA MA   2.00     15.00     30.00
+MAAZA 200ML    1.00     12.00     12.00
+HERITAGE CUR   1.00     40.00     40.00
+COFFY BITE 5   1.00      5.00      5.00
+NESTLE 20 /-   1.00     20.00     20.00
+COTTON EAR B   1.00     21.00     21.00
+CABDURY TEMP   1.00     65.00     65.00
+BOURNVILLE 3   1.00     30.00     30.00
+NESTLE MILKY   5.00      5.00     25.00
+---------------------------------------
+Items/Qty :   9/  14
+TOTAL      RS 248.00
+---------------------------------------
+Tendered-CASH             RS     250.00
+Change  -CASH             RS       2.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115466
+Date : 14/02/2014     Time: 12:23:40
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AASHIRVAAD A   2.00     50.00    100.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL      RS 100.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115467
+Date : 14/02/2014     Time: 12:24:07
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+RIN ADVANCED   1.00     44.00     44.00
+COLIN PUMP 5   1.00     59.00     59.00
+ONIONS         1.00     20.00     20.00
+KURNOOL RICE   4.00     48.00    192.00
+---------------------------------------
+Items/Qty :   4/   7
+TOTAL      RS 315.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     185.00
+---------------------------------------
+        You have saved RS 13.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115467
+Date : 14/02/2014     Time: 12:24:08
+
+   Duplicate - 1
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+RIN ADVANCED   1.00     44.00     44.00
+COLIN PUMP 5   1.00     59.00     59.00
+ONIONS         1.00     20.00     20.00
+KURNOOL RICE   4.00     48.00    192.00
+---------------------------------------
+Items/Qty :   4/   7
+TOTAL      RS 315.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     185.00
+---------------------------------------
+        You have saved RS 13.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115468
+Date : 14/02/2014     Time: 12:44:56
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+GROUND NUT 2   1.00     22.00     22.00
+MILK 500ML     4.00     20.00     80.00
+---------------------------------------
+Items/Qty :   2/   5
+TOTAL      RS 102.00
+---------------------------------------
+Tendered-CASH             RS     102.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115469
+Date : 14/02/2014     Time: 12:51:39
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+VODAFONE EAS 222.00      1.00    222.00
+---------------------------------------
+Items/Qty :   1/ 222
+TOTAL      RS 222.00
+---------------------------------------
+Tendered-CASH             RS     222.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115470
+Date : 14/02/2014     Time: 13:13:42
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115471
+Date : 14/02/2014     Time: 13:16:03
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+HERITAGE CUR   1.00     20.00     20.00
+KAMAL NAMKEE   1.00     15.00     15.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 35.00
+---------------------------------------
+Tendered-CASH             RS      35.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115472
+Date : 14/02/2014     Time: 13:18:29
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+DOVE BODY LO   1.00     90.00     90.00
+AMBICA DURBA   1.00     33.00     33.00
+PARACHUTE CO   1.00     50.00     50.00
+SAGO 200GM     1.00     20.00     20.00
+---------------------------------------
+Items/Qty :   4/   4
+TOTAL      RS 193.00
+---------------------------------------
+Tendered-CASH             RS     200.00
+Change  -CASH             RS       7.00
+---------------------------------------
+        You have saved RS 2.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115473
+Date : 14/02/2014     Time: 13:37:08
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KAMAL MURMUR   1.00     42.00     42.00
+EGG            4.00      4.50     18.00
+---------------------------------------
+Items/Qty :   2/   5
+TOTAL       RS 60.00
+---------------------------------------
+Tendered-CASH             RS      60.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115473
+Date : 14/02/2014     Time: 13:37:08
+
+   Duplicate - 1
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KAMAL MURMUR   1.00     42.00     42.00
+EGG            4.00      4.50     18.00
+---------------------------------------
+Items/Qty :   2/   5
+TOTAL       RS 60.00
+---------------------------------------
+Tendered-CASH             RS      60.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115474
+Date : 14/02/2014     Time: 14:21:55
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KINLEY WATER   2.00     20.00     40.00
+NESTLE FRESH   1.00     50.00     50.00
+---------------------------------------
+Items/Qty :   2/   3
+TOTAL       RS 90.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115475
+Date : 14/02/2014     Time: 14:23:40
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AIRTEL CARD  600.00      1.00   -600.00
+---------------------------------------
+Items/Qty :   1/   0
+TOTAL     RS -600.00
+---------------------------------------
+Tendered-CASH             RS    -600.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115476
+Date : 14/02/2014     Time: 14:23:47
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CADBURY ECLA   1.00      1.00      1.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL        RS 1.00
+---------------------------------------
+Tendered-CASH             RS       1.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115475
+Date : 14/02/2014     Time: 14:23:41
+
+   Duplicate - 1
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AIRTEL CARD  600.00      1.00   -600.00
+---------------------------------------
+Items/Qty :   1/   0
+TOTAL     RS -600.00
+---------------------------------------
+Tendered-CASH             RS    -600.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115477
+Date : 14/02/2014     Time: 14:27:19
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+GOOD DAY CAS   1.00     15.00     15.00
+SUNFEAST SPE   1.00     10.00     10.00
+BRITANNIA BR   1.00     26.00     26.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL       RS 51.00
+---------------------------------------
+Tendered-CASH             RS      51.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115478
+Date : 14/02/2014     Time: 14:30:17
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+NESTLE MILK    1.00     95.00     95.00
+CADBURY COCO   1.00    180.00    180.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL      RS 275.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     225.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115479
+Date : 14/02/2014     Time: 14:30:48
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MILK 500ML     5.00     20.00    100.00
+---------------------------------------
+Items/Qty :   1/   5
+TOTAL      RS 100.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115480
+Date : 14/02/2014     Time: 14:39:41
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MILK 500ML     1.00     20.00     20.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115481
+Date : 14/02/2014     Time: 14:47:48
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COCA-COLA TI   1.00     25.00     25.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 25.00
+---------------------------------------
+Tendered-CASH             RS      25.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115482
+Date : 14/02/2014     Time: 14:48:07
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AASIRVAAD AT   1.00     44.00     44.00
+PIM POM LOLL   1.00      3.00      3.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 47.00
+---------------------------------------
+Tendered-CASH             RS      47.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115483
+Date : 14/02/2014     Time: 14:50:10
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA BR   1.00     26.00     26.00
+CADBURY DAIR   2.00     10.00     20.00
+---------------------------------------
+Items/Qty :   2/   3
+TOTAL       RS 46.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     454.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115484
+Date : 14/02/2014     Time: 14:57:23
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+JUJUBE JELLY   2.00     20.00     40.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 40.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     460.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115485
+Date : 14/02/2014     Time: 14:58:40
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 15/-      1.00     15.00     15.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 15.00
+---------------------------------------
+Tendered-CASH             RS      15.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115486
+Date : 14/02/2014     Time: 15:20:51
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BUTTERSCOTCH   1.00     20.00     20.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115487
+Date : 14/02/2014     Time: 15:40:43
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KURKURE 10/-   2.00     10.00     20.00
+GENERAL        2.00      5.00     10.00
+---------------------------------------
+Items/Qty :   2/   4
+TOTAL       RS 30.00
+---------------------------------------
+Tendered-CASH             RS      30.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115488
+Date : 14/02/2014     Time: 15:56:58
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CHART PAPER    1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115489
+Date : 14/02/2014     Time: 16:05:59
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MILK 500ML     1.00     20.00     20.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      50.00
+Change  -CASH             RS      30.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115490
+Date : 14/02/2014     Time: 16:07:41
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+FIAMA DIWILL   1.00     52.00     52.00
+UDATH ROUND    1.00     44.00     44.00
+PARTY PACK 7   1.00    190.00    190.00
+WHISPER MAXI   1.00    155.00    155.00
+---------------------------------------
+Items/Qty :   4/   4
+TOTAL      RS 441.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS      59.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115491
+Date : 14/02/2014     Time: 16:11:56
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KAMAL CAKE 1   1.00     24.00     24.00
+MINUTE MAID    1.00     27.00     27.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 51.00
+---------------------------------------
+Tendered-CASH             RS      51.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115492
+Date : 14/02/2014     Time: 16:12:47
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+GLUCOVITA 28   1.00     15.00     15.00
+GENERAL        1.00     15.00     15.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 30.00
+---------------------------------------
+Tendered-CASH             RS      30.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115493
+Date : 14/02/2014     Time: 16:13:44
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115494
+Date : 14/02/2014     Time: 16:32:23
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+HENKO POWDER  -1.00    135.00   -135.00
+TIDE 1KG       1.00     95.00     95.00
+TIDE DETERGE   1.00     45.00     45.00
+---------------------------------------
+Items/Qty :   3/   2
+TOTAL        RS 5.00
+---------------------------------------
+Tendered-CASH             RS       5.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115495
+Date : 14/02/2014     Time: 16:33:46
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+OREO BISCUIT   1.00     10.00     10.00
+SUNFEAST SPE   1.00     10.00     10.00
+DARK FANTASY   1.00     30.00     30.00
+LAYS 15/-      1.00     15.00     15.00
+BRITANNIA BU   1.00     13.00     13.00
+CADBURY 5 ST   1.00     15.00     15.00
+---------------------------------------
+Items/Qty :   6/   6
+TOTAL       RS 93.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS       7.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115496
+Date : 14/02/2014     Time: 17:04:16
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MILK 500ML     2.00     20.00     40.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 40.00
+---------------------------------------
+Tendered-CASH             RS      40.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115497
+Date : 14/02/2014     Time: 17:22:50
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+DAAWAT BASMA   1.00    150.00    150.00
+MAGGI MASALA   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL      RS 160.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     340.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115498
+Date : 14/02/2014     Time: 17:23:53
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CRYSTAL COMB   1.00     35.00     35.00
+CRYSTAL COMB   1.00     20.00     20.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 55.00
+---------------------------------------
+Tendered-SODEXO           RS      50.00
+Tendered-CASH             RS       5.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115499
+Date : 14/02/2014     Time: 17:24:51
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA BU   1.00     13.00     13.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 13.00
+---------------------------------------
+Tendered-CASH             RS      13.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115500
+Date : 14/02/2014     Time: 17:27:39
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+EVEREST CHIC   1.00     31.00     31.00
+BAMBINO VARM   1.00     13.00     13.00
+KNORR SOUPY    1.00     12.00     12.00
+MTR SAMBER P   1.00     36.00     36.00
+KIS MIS 50GM   1.00     14.00     14.00
+KAJU 50GMS     1.00     31.00     31.00
+SUGAR 1KG      1.00     38.00     38.00
+UDATH DALL 1   1.00     84.00     84.00
+POOJA GINGEL   1.00     93.00     93.00
+DURGA GHEE 1   1.00     46.00     46.00
+EVEREST HING   1.00     29.00     29.00
+MAAZA 200ML    1.00     12.00     12.00
+COCONUT 1P     1.00     15.00     15.00
+REAL JUICE 1   2.00     90.00    180.00
+PARAG COMB 9   1.00     15.00     15.00
+ONIONS         1.50     20.00     30.00
+---------------------------------------
+Items/Qty :  16/  18
+TOTAL      RS 679.00
+---------------------------------------
+Tendered-CASH             RS     700.00
+Change  -CASH             RS      21.00
+---------------------------------------
+        You have saved RS 14.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115501
+Date : 14/02/2014     Time: 17:29:16
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MILK 500ML     2.00     20.00     40.00
+HERITAGE CUR   1.00     20.00     20.00
+AASHIRVAAD C   1.00     17.00     17.00
+TIL WHITE OR   1.00     27.00     27.00
+TATA SALT 1K   1.00     17.00     17.00
+HERITAGE GHE   2.00    195.00    390.00
+VIJAYA SUNFL   1.00     82.00     82.00
+---------------------------------------
+Items/Qty :   7/   9
+TOTAL      RS 593.00
+---------------------------------------
+Tendered-CASH             RS     600.00
+Change  -CASH             RS       7.00
+---------------------------------------
+        You have saved RS 21.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115502
+Date : 14/02/2014     Time: 17:31:52
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+VODAFONE EAS  50.00      1.00     50.00
+---------------------------------------
+Items/Qty :   1/  50
+TOTAL       RS 50.00
+---------------------------------------
+Tendered-CASH             RS      50.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115503
+Date : 14/02/2014     Time: 17:36:48
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MILK 500ML     2.00     20.00     40.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 40.00
+---------------------------------------
+Tendered-CASH             RS      40.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115504
+Date : 14/02/2014     Time: 17:42:56
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KAMAL NAMKEE   1.00     17.00     17.00
+BRITANNIA BU   1.00     13.00     13.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 30.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      70.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115505
+Date : 14/02/2014     Time: 17:44:44
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+HERITAGE CUR   1.00     20.00     20.00
+I D DOSA BAT   1.00     45.00     45.00
+SUGAR 2KG      1.00     76.00     76.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL      RS 141.00
+---------------------------------------
+Tendered-CASH             RS     200.00
+Change  -CASH             RS      59.00
+---------------------------------------
+        You have saved RS 4.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115506
+Date : 14/02/2014     Time: 17:47:00
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+TAMRIND 500G   1.00     49.00     49.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 49.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      51.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115506
+Date : 14/02/2014     Time: 17:47:01
+
+   Duplicate - 1
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+TAMRIND 500G   1.00     49.00     49.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 49.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      51.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115507
+Date : 14/02/2014     Time: 17:48:04
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AASHIRVAAD C   1.00    100.00    100.00
+PRIYA GINGER   1.00     38.00     38.00
+BRITANNIA WH   1.00     26.00     26.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL      RS 164.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     336.00
+---------------------------------------
+        You have saved RS 10.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115508
+Date : 14/02/2014     Time: 17:48:48
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CADBURY DAIR   5.00     10.00     50.00
+LAYS 10/-      2.00     10.00     20.00
+---------------------------------------
+Items/Qty :   2/   7
+TOTAL       RS 70.00
+---------------------------------------
+Tendered-CASH             RS      70.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115509
+Date : 14/02/2014     Time: 17:49:08
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MAAZA 1LTR +   1.00     62.00     62.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 62.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      38.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115510
+Date : 14/02/2014     Time: 17:49:33
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+SNICKERS SIN   1.00     30.00     30.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 30.00
+---------------------------------------
+Tendered-CASH             RS      30.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115511
+Date : 14/02/2014     Time: 17:51:04
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+B RAVA 1KG     1.00     38.00     38.00
+CARRY BAG      1.00      2.00      2.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 40.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      60.00
+---------------------------------------
+        You have saved RS 3.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115512
+Date : 14/02/2014     Time: 17:54:03
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+FEAST FRUTTA   1.00     20.00     20.00
+KARACHI BISC   1.00    130.00    130.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL      RS 150.00
+---------------------------------------
+Tendered-CASH             RS     200.00
+Change  -CASH             RS      50.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115513
+Date : 14/02/2014     Time: 17:57:03
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 10/-      1.00     10.00     10.00
+VIJAYA SUNFL   1.00     82.00     82.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 92.00
+---------------------------------------
+Tendered-CASH             RS      92.00
+---------------------------------------
+        You have saved RS 20.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115514
+Date : 14/02/2014     Time: 17:57:55
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+TAMRIND 500G  -1.00     49.00    -49.00
+---------------------------------------
+Items/Qty :   1/   0
+TOTAL      RS -49.00
+---------------------------------------
+Tendered-CASH             RS     -49.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115515
+Date : 14/02/2014     Time: 17:58:07
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115516
+Date : 14/02/2014     Time: 17:58:54
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+DHANALAXMI G   2.00     45.00     90.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 90.00
+---------------------------------------
+Tendered-CASH             RS      90.00
+---------------------------------------
+        You have saved RS 4.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115517
+Date : 14/02/2014     Time: 18:00:55
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CHOCOLATE CU   1.00     15.00     15.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 15.00
+---------------------------------------
+Tendered-CASH             RS      15.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115518
+Date : 14/02/2014     Time: 18:01:47
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115519
+Date : 14/02/2014     Time: 18:03:30
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COLIN PUMP 2   1.00     43.00     43.00
+BRITANNIA BR   1.00     26.00     26.00
+KINLEY WATER   1.00     10.00     10.00
+I D DOSA BAT   2.00     45.00     90.00
+NESCAFE SUNR   1.00     82.00     82.00
+RED LABLE NA   1.00    102.00    102.00
+GROUND NUT 2   1.00     22.00     22.00
+PUTANALU 200   1.00     16.00     16.00
+---------------------------------------
+Items/Qty :   8/   9
+TOTAL      RS 391.00
+---------------------------------------
+Tendered-V-CARD           RS     391.00
+Card #XXXXX
+Appr #XXXXX
+---------------------------------------
+        You have saved RS 7.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115520
+Date : 14/02/2014     Time: 18:08:56
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MAAZA 500+10   1.00     35.00     35.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 35.00
+---------------------------------------
+Tendered-CASH             RS      50.00
+Change  -CASH             RS      15.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115521
+Date : 14/02/2014     Time: 18:09:10
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KURKURE 10/-   2.00     10.00     20.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115522
+Date : 14/02/2014     Time: 18:10:32
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+APSARA SHARP   1.00      5.00      5.00
+CADBURY DAIR   1.00      5.00      5.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115523
+Date : 14/02/2014     Time: 18:10:59
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA BR   1.00     26.00     26.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 26.00
+---------------------------------------
+Tendered-CASH             RS      50.00
+Change  -CASH             RS      24.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115524
+Date : 14/02/2014     Time: 18:15:30
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA BO   1.00     20.00     20.00
+FANTA TIN 33   1.00     25.00     25.00
+KURKURE 20/-   1.00     20.00     20.00
+EGG            6.00      4.00     24.00
+---------------------------------------
+Items/Qty :   4/   9
+TOTAL       RS 89.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      11.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115525
+Date : 14/02/2014     Time: 18:16:05
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CADBURY PERK   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115526
+Date : 14/02/2014     Time: 18:16:29
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COLGATE ZIGZ   1.00     20.00     20.00
+PEPSODENT KI   1.00     54.00     54.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 74.00
+---------------------------------------
+Tendered-CASH             RS      80.00
+Change  -CASH             RS       6.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115527
+Date : 14/02/2014     Time: 18:16:53
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+HALDIRAM`S 8   2.00     10.00     20.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115528
+Date : 14/02/2014     Time: 18:18:02
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CADBURY PERK   1.00     10.00     10.00
+LAYS 10/-      1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115529
+Date : 14/02/2014     Time: 18:18:30
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+JUJUBE JELLY   1.00     20.00     20.00
+KAMAL NAMKEE   1.00     15.00     15.00
+KAMAL ANDHRA   1.00     16.00     16.00
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   4/   4
+TOTAL       RS 61.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      39.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115530
+Date : 14/02/2014     Time: 18:19:08
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+RAJAMA BROWN   1.00     60.00     60.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 60.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      40.00
+---------------------------------------
+        You have saved RS 5.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115531
+Date : 14/02/2014     Time: 18:19:44
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MAAZA 200ML    1.00     12.00     12.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 12.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+Change  -CASH             RS       8.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115532
+Date : 14/02/2014     Time: 18:20:09
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BADAM 100GM    1.00     74.00     74.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 74.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      26.00
+---------------------------------------
+        You have saved RS 6.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115533
+Date : 14/02/2014     Time: 18:21:55
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+FEAST CHAOCO   2.00     35.00     70.00
+HALDIRAM`S 8   2.00     10.00     20.00
+AMUL CHEES 1   1.00    102.00    102.00
+BRITANNIA WH   1.00     26.00     26.00
+---------------------------------------
+Items/Qty :   4/   6
+TOTAL      RS 218.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     282.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115534
+Date : 14/02/2014     Time: 18:22:36
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA MI   1.00     35.00     35.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 35.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      65.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115535
+Date : 14/02/2014     Time: 18:23:13
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+FEAST FRUTTA   1.00     20.00     20.00
+LAYS 10/-      1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 30.00
+---------------------------------------
+Tendered-CASH             RS      30.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115536
+Date : 14/02/2014     Time: 18:23:28
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AASIRVAAD AT   1.00     44.00     44.00
+VIM BAR 400G   1.00     23.00     23.00
+BRITANNIA GO   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL       RS 77.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      23.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115537
+Date : 14/02/2014     Time: 18:24:47
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KAMAL ANDHRA   1.00     16.00     16.00
+PARLE G 250G   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 26.00
+---------------------------------------
+Tendered-CASH             RS      26.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115538
+Date : 14/02/2014     Time: 18:27:31
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA WH   1.00     26.00     26.00
+BRITANNIA MI   1.00     18.00     18.00
+I D DOSA BAT   1.00     45.00     45.00
+BOOMER         1.00      6.00      6.00
+---------------------------------------
+Items/Qty :   4/   4
+TOTAL       RS 95.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     405.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115539
+Date : 14/02/2014     Time: 18:28:04
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+PARLE G 250G  -1.00     10.00    -10.00
+BRITANNIA MI   1.00     22.00     22.00
+---------------------------------------
+Items/Qty :   2/   1
+TOTAL       RS 12.00
+---------------------------------------
+Tendered-CASH             RS      12.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115540
+Date : 14/02/2014     Time: 18:29:10
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 10/-      1.00     10.00     10.00
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115541
+Date : 14/02/2014     Time: 18:31:09
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+SILVER PLATE   1.00     33.00     33.00
+250 ML PLAST  30.00      1.50     45.00
+---------------------------------------
+Items/Qty :   2/  31
+TOTAL       RS 78.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      22.00
+---------------------------------------
+        You have saved RS 19.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115542
+Date : 14/02/2014     Time: 18:31:48
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+HERITAGE CUR   2.00     40.00     80.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 80.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115543
+Date : 14/02/2014     Time: 18:32:07
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MAAZA 200ML    2.00     12.00     24.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 24.00
+---------------------------------------
+Tendered-CASH             RS      50.00
+Change  -CASH             RS      26.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115544
+Date : 14/02/2014     Time: 18:32:48
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+GENERAL        1.00     17.00     17.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 17.00
+---------------------------------------
+Tendered-CASH             RS      50.00
+Change  -CASH             RS      33.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115545
+Date : 14/02/2014     Time: 18:33:41
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MORTEIN ALL    1.00     85.00     85.00
+KINLEY SODA    1.00     18.00     18.00
+EGG           12.00      4.00     48.00
+---------------------------------------
+Items/Qty :   3/  14
+TOTAL      RS 151.00
+---------------------------------------
+Tendered-CASH             RS     200.00
+Change  -CASH             RS      49.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115546
+Date : 14/02/2014     Time: 18:34:17
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+SKY BIRDS BA   1.00     24.00     24.00
+VIOLA ESSENC   1.00     50.00     50.00
+VISAKHA COOK   1.00    175.00    175.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL      RS 249.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     251.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115547
+Date : 14/02/2014     Time: 18:34:43
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MOONG DALL 2   1.00     20.00     20.00
+KAMAL STARCH   1.00     60.00     60.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 80.00
+---------------------------------------
+Tendered-CASH             RS      80.00
+---------------------------------------
+        You have saved RS 2.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115548
+Date : 14/02/2014     Time: 18:35:27
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COFFY BITE 5   1.00      5.00      5.00
+CADBURY DAIR   1.00      5.00      5.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115549
+Date : 14/02/2014     Time: 18:37:15
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115550
+Date : 14/02/2014     Time: 18:38:26
+Time : 06:39:03 PM
+---------------------------------------
+       Suspending Receipt : 3659       
+---------------------------------------
+       Suspending Receipt : 3659       
+---------------------------------------
+
+
+
+
+
+
+
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+Suspend : 003659
+Amount  : RS 184.00      
+Qty     : 5.000     
+
+
+
+
+
+
+
+
+
+
+
+
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115550
+Date : 14/02/2014     Time: 18:39:19
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KWALITY WALL   1.00    189.00    189.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL      RS 189.00
+---------------------------------------
+Tendered-CASH             RS     200.00
+Change  -CASH             RS      11.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115551
+Date : 14/02/2014     Time: 18:39:38
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COLGATE ACTI   2.00     44.00     88.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 88.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      12.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115552
+Date : 14/02/2014     Time: 
+Time : 06:39:51 PM
+---------------------------------------
+         Resume Receipt : 3659         
+---------------------------------------
+         Resume Receipt : 3659         
+---------------------------------------
+
+
+
+
+
+
+
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115552
+Date : 14/02/2014     Time: 18:40:29
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA MI   1.00     14.00     14.00
+WHISPER ULTR   1.00     80.00     80.00
+MEDIMIX SAND   1.00     40.00     40.00
+GENERAL        1.00     35.00     35.00
+BRITANNIA FR   1.00     15.00     15.00
+CADBURY ECLA   1.00      1.00      1.00
+---------------------------------------
+Items/Qty :   6/   6
+TOTAL      RS 185.00
+---------------------------------------
+Tendered-SODEXO           RS     185.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115553
+Date : 14/02/2014     Time: 18:41:38
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 10/-      2.00     10.00     20.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115553
+Date : 14/02/2014     Time: 18:41:39
+
+   Duplicate - 1
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 10/-      2.00     10.00     20.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115554
+Date : 14/02/2014     Time: 18:43:01
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+I D DOSA BAT   1.00     45.00     45.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 45.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      55.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115555
+Date : 14/02/2014     Time: 18:43:21
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 10/-      1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115556
+Date : 14/02/2014     Time: 18:43:31
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 10/-      1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115557
+Date : 14/02/2014     Time: 18:43:52
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+JUJUBE JELLY   1.00     20.00     20.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115558
+Date : 14/02/2014     Time: 18:44:52
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KAMAL MURMUR   1.00     42.00     42.00
+BRU INSTANT    1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 52.00
+---------------------------------------
+Tendered-CASH             RS      52.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115559
+Date : 14/02/2014     Time: 18:46:16
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AMUL BUTTER    1.00     35.00     35.00
+LAYS 15/-      1.00     15.00     15.00
+EVEREST PAVB   1.00     30.00     30.00
+CADBURY DAIR   1.00     55.00     55.00
+---------------------------------------
+Items/Qty :   4/   4
+TOTAL      RS 135.00
+---------------------------------------
+Tendered-CASH             RS     135.00
+---------------------------------------
+        You have saved RS 5.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115560
+Date : 14/02/2014     Time: 18:47:56
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+VATHULU        1.00     20.00     20.00
+KURNOOL RICE   3.00     48.00    144.00
+PRIYA RICE R   1.00     85.00     85.00
+GENERAL        1.00     25.00     25.00
+---------------------------------------
+Items/Qty :   4/   6
+TOTAL      RS 274.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     226.00
+---------------------------------------
+        You have saved RS 16.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115561
+Date : 14/02/2014     Time: 18:48:31
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA SA   1.00     26.00     26.00
+HOMELITES MA   1.00     10.00     10.00
+THUMSUP 500M   1.00     35.00     35.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL       RS 71.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      29.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115562
+Date : 14/02/2014     Time: 18:49:26
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CADBURY GEMS   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115563
+Date : 14/02/2014     Time: 18:50:01
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+SARA HW MOP    1.00    220.00    220.00
+MOP STICK HA  -1.00     40.00    -40.00
+SABENA 1KG     1.00     22.00     22.00
+TATA SALT 1K   1.00     17.00     17.00
+---------------------------------------
+Items/Qty :   4/   3
+TOTAL      RS 219.00
+---------------------------------------
+Tendered-CASH             RS     520.00
+Change  -CASH             RS     301.00
+---------------------------------------
+        You have saved RS 10.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115564
+Date : 14/02/2014     Time: 18:50:42
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COCONUT 1P     1.00     15.00     15.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 15.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+Change  -CASH             RS       5.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115565
+Date : 14/02/2014     Time: 18:50:55
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+PARLE HIDE &   1.00     25.00     25.00
+BRITANNIA BR   1.00     26.00     26.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 51.00
+---------------------------------------
+Tendered-CASH             RS      51.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115566
+Date : 14/02/2014     Time: 18:53:29
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+RED LABLE NA   1.00     47.00     47.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 47.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     453.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115567
+Date : 14/02/2014     Time: 18:54:25
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 10/-      1.00     10.00     10.00
+CHUDUVA 500G   1.00     22.00     22.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 32.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      68.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115568
+Date : 14/02/2014     Time: 18:55:46
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+I D KERALA P   2.00     45.00     90.00
+JAGGRY 500GM   1.00     27.00     27.00
+MAAZA 200ML    2.00     12.00     24.00
+---------------------------------------
+Items/Qty :   3/   5
+TOTAL      RS 141.00
+---------------------------------------
+Tendered-CASH             RS     141.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115569
+Date : 14/02/2014     Time: 18:57:05
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+OREO BISCUIT   1.00     15.00     15.00
+MAAZA 200ML    1.00     12.00     12.00
+LAYS 10/-      1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL       RS 37.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      63.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115570
+Date : 14/02/2014     Time: 19:01:45
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+RED LABLE NA  -1.00     47.00    -47.00
+RED LABLE NA   2.00    102.00    204.00
+CADBURY ECLA  -3.00      1.00     -3.00
+---------------------------------------
+Items/Qty :   3/   2
+TOTAL      RS 154.00
+---------------------------------------
+Tendered-CASH             RS     154.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115571
+Date : 14/02/2014     Time: 19:02:36
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115572
+Date : 14/02/2014     Time: 19:04:49
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+PARLE HIDE &  -1.00     25.00    -25.00
+ELITE MILK R   1.00     25.00     25.00
+CADBURY ECLA   1.00      1.00      1.00
+---------------------------------------
+Items/Qty :   3/   2
+TOTAL        RS 1.00
+---------------------------------------
+Tendered-CASH             RS       1.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115573
+Date : 14/02/2014     Time: 19:10:03
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AIRTEL CARD  300.00      1.00   -300.00
+---------------------------------------
+Items/Qty :   1/   0
+TOTAL     RS -300.00
+---------------------------------------
+Tendered-CASH             RS    -300.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115574
+Date : 14/02/2014     Time: 19:10:09
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+SPENCER`S MI   1.00     22.00     22.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 22.00
+---------------------------------------
+Tendered-CASH             RS      22.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115575
+Date : 14/02/2014     Time: 19:10:28
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COCONUT 1P     1.00     15.00     15.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 15.00
+---------------------------------------
+Tendered-CASH             RS      50.00
+Change  -CASH             RS      35.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115576
+Date : 14/02/2014     Time: 19:12:25
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KINLEY SODA    2.00     18.00     36.00
+KURKURE 10/-   1.00     10.00     10.00
+I D DOSA BAT   1.00     45.00     45.00
+---------------------------------------
+Items/Qty :   3/   4
+TOTAL       RS 91.00
+---------------------------------------
+Tendered-CASH             RS      91.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115577
+Date : 14/02/2014     Time: 19:15:27
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+EVEREST DRY    1.00     32.00     32.00
+BADAM 100GM    1.00     74.00     74.00
+VAMU 50G       1.00     13.00     13.00
+CADBURY ECLA   1.00      1.00      1.00
+---------------------------------------
+Items/Qty :   4/   4
+TOTAL      RS 120.00
+---------------------------------------
+Tendered-SODEXO           RS     120.00
+---------------------------------------
+        You have saved RS 7.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115578
+Date : 14/02/2014     Time: 19:18:47
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BAMBINO ROAS   1.00     75.00     75.00
+HARPIC POWER   1.00     63.00     63.00
+NESTLE MILK    1.00     95.00     95.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL      RS 233.00
+---------------------------------------
+Tendered-CASH             RS     300.00
+Change  -CASH             RS      67.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115579
+Date : 14/02/2014     Time: 19:19:15
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+I D KERALA P   1.00     45.00     45.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 45.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      55.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115580
+Date : 14/02/2014     Time: 19:23:18
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AASIRVAAD AT   1.00     44.00     44.00
+SURF EXCEL B   1.00     96.00     96.00
+VIM BAR 400G   1.00     23.00     23.00
+MOONG ROUND    1.00     43.00     43.00
+HERITAGE CUR   1.00     40.00     40.00
+HALDIRAM`S 8   1.00     10.00     10.00
+GLUCOVITA 28   1.00     15.00     15.00
+CARRY BAG      1.00      3.00      3.00
+---------------------------------------
+Items/Qty :   8/   8
+TOTAL      RS 274.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     226.00
+---------------------------------------
+        You have saved RS 2.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115581
+Date : 14/02/2014     Time: 19:27:19
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+EGG           12.00      4.00     48.00
+RATNA CHIKKY   1.00     30.00     30.00
+---------------------------------------
+Items/Qty :   2/  13
+TOTAL       RS 78.00
+---------------------------------------
+Tendered-CASH             RS      78.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115582
+Date : 14/02/2014     Time: 19:28:44
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+PANTENE 100M   1.00     54.00     54.00
+NESTLE FRESH   1.00     50.00     50.00
+BRITANNIA BU   1.00     13.00     13.00
+THUMSUP 500M   1.00     35.00     35.00
+EGG           12.00      4.00     48.00
+CARRY BAG      1.00      3.00      3.00
+CADBURY ECLA   7.00      1.00      7.00
+---------------------------------------
+Items/Qty :   7/  24
+TOTAL      RS 210.00
+---------------------------------------
+Tendered-CASH             RS     210.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115583
+Date : 14/02/2014     Time: 19:29:29
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+C C DOSA BAT   1.00     51.00     51.00
+RIN ADVANCED   1.00     82.00     82.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL      RS 133.00
+---------------------------------------
+Tendered-SODEXO           RS     100.00
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      67.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115584
+Date : 14/02/2014     Time: 19:29:58
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 10/-      2.00     10.00     20.00
+SAGO 500GM     1.00     45.00     45.00
+---------------------------------------
+Items/Qty :   2/   3
+TOTAL       RS 65.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      35.00
+---------------------------------------
+        You have saved RS 2.50        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115585
+Date : 14/02/2014     Time: 19:30:37
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AMUL BUTTER    1.00     35.00     35.00
+KELLOGG`S CO   1.00     88.00     88.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL      RS 123.00
+---------------------------------------
+Tendered-CASH             RS     150.00
+Change  -CASH             RS      27.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115586
+Date : 14/02/2014     Time: 19:31:39
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+WIPRO BULB 1   1.00     16.00     16.00
+COCONUT 1P     1.00     15.00     15.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 31.00
+---------------------------------------
+Tendered-CASH             RS      31.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115587
+Date : 14/02/2014     Time: 19:32:25
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KIS MIS 100G   1.00     28.00     28.00
+HERITAGE COW   1.00    202.00    202.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL      RS 230.00
+---------------------------------------
+Tendered-SODEXO           RS     230.00
+---------------------------------------
+        You have saved RS 4.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115588
+Date : 14/02/2014     Time: 19:32:47
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MAGGI TOMATO   1.00     40.00     40.00
+ORBIT CHEWIN   4.00      5.00     20.00
+---------------------------------------
+Items/Qty :   2/   5
+TOTAL       RS 60.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      40.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115588
+Date : 14/02/2014     Time: 19:32:48
+
+   Duplicate - 1
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MAGGI TOMATO   1.00     40.00     40.00
+ORBIT CHEWIN   4.00      5.00     20.00
+---------------------------------------
+Items/Qty :   2/   5
+TOTAL       RS 60.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      40.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115589
+Date : 14/02/2014     Time: 19:33:04
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+NESTLE FRESH   1.00     25.00     25.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 25.00
+---------------------------------------
+Tendered-CASH             RS      25.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115590
+Date : 14/02/2014     Time: 19:33:41
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA NU   1.00     15.00     15.00
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 25.00
+---------------------------------------
+Tendered-CASH             RS      25.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115591
+Date : 14/02/2014     Time: 19:34:23
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 10/-      1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+Change  -CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115592
+Date : 14/02/2014     Time: 19:36:05
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KINLEY SODA    1.00     18.00     18.00
+COCA-COLA 1.   1.00     52.00     52.00
+SPRITE 1.2 L   1.00     52.00     52.00
+ACT II POPCO   4.00     20.00     80.00
+CARRY BAG      1.00      3.00      3.00
+---------------------------------------
+Items/Qty :   5/   8
+TOTAL      RS 205.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     295.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115593
+Date : 14/02/2014     Time: 19:36:46
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA MA   2.00     17.00     34.00
+BRITANNIA GO   2.00     10.00     20.00
+DABUR CHYAWA   1.00    142.00    142.00
+CARRY BAG      1.00      3.00      3.00
+---------------------------------------
+Items/Qty :   4/   6
+TOTAL      RS 199.00
+---------------------------------------
+Tendered-CASH             RS    1000.00
+Change  -CASH             RS     801.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115594
+Date : 14/02/2014     Time: 19:38:55
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AIRTEL CARD  555.00      1.00   -555.00
+---------------------------------------
+Items/Qty :   1/   0
+TOTAL     RS -555.00
+---------------------------------------
+Tendered-CASH             RS    -555.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115595
+Date : 14/02/2014     Time: 19:39:19
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+THUMS UP TIN   1.00     25.00     25.00
+CADBURY DAIR   3.00     55.00    165.00
+---------------------------------------
+Items/Qty :   2/   4
+TOTAL      RS 190.00
+---------------------------------------
+Tendered-CASH             RS     190.00
+---------------------------------------
+        You have saved RS 15.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115596
+Date : 14/02/2014     Time: 19:43:44
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA WH   1.00     26.00     26.00
+EGG            6.00      4.00     24.00
+---------------------------------------
+Items/Qty :   2/   7
+TOTAL       RS 50.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      50.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115597
+Date : 14/02/2014     Time: 19:46:18
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CADBURY DAIR   1.00      5.00      5.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL        RS 5.00
+---------------------------------------
+Tendered-CASH             RS       5.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115598
+Date : 14/02/2014     Time: 19:46:35
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+FEAST FRUTTA   1.00     20.00     20.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115599
+Date : 14/02/2014     Time: 19:46:56
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+VIJAYA GROUN   1.00     88.00     88.00
+NESTLE FRESH   1.00     25.00     25.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL      RS 113.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     387.00
+---------------------------------------
+        You have saved RS 12.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115600
+Date : 14/02/2014     Time: 19:48:30
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+SAFFOLA GOLD   1.00    145.00    145.00
+EGG           12.00      4.00     48.00
+---------------------------------------
+Items/Qty :   2/  13
+TOTAL      RS 193.00
+---------------------------------------
+Tendered-CASH             RS     193.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115601
+Date : 14/02/2014     Time: 19:48:52
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+AMUL BUTTER    1.00     35.00     35.00
+BRITANNIA MI   1.00     26.00     26.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 61.00
+---------------------------------------
+Tendered-CASH             RS      61.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115602
+Date : 14/02/2014     Time: 19:50:18
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COCA-COLA 60   1.00     35.00     35.00
+TETLEY GREEN  -1.00     95.00    -95.00
+TETLEY TEA 1   1.00     60.00     60.00
+DABUR HONEY    1.00    100.00    100.00
+NESCAFE 25G    1.00     60.00     60.00
+TETLEY TEA 1   1.00     40.00     40.00
+DOVE FACE WA   1.00     75.00     75.00
+CARRY BAG      1.00      3.00      3.00
+---------------------------------------
+Items/Qty :   8/   7
+TOTAL      RS 278.00
+---------------------------------------
+Tendered-CASH             RS     300.00
+Change  -CASH             RS      22.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115603
+Date : 14/02/2014     Time: 19:51:24
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+MINUTE MAID    1.00     25.00     25.00
+BOURNVILLE 3   1.00     30.00     30.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 55.00
+---------------------------------------
+Tendered-CASH             RS      55.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115604
+Date : 14/02/2014     Time: 19:52:33
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+DURACELL AA2   1.00     28.00     28.00
+DURACELL AAA   1.00     21.00     21.00
+QUAKER OATS    2.00     10.00     20.00
+PIM POM LOLL   1.00      3.00      3.00
+---------------------------------------
+Items/Qty :   4/   5
+TOTAL       RS 72.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      28.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115605
+Date : 14/02/2014     Time: 19:53:13
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+HERITAGE CUR   1.00     40.00     40.00
+SWARNA PACKE   1.00     71.00     71.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL      RS 111.00
+---------------------------------------
+Tendered-CASH             RS     111.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115606
+Date : 14/02/2014     Time: 19:54:41
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 20/-      1.00     20.00     20.00
+AIRTEL CARD  100.00      1.00    100.00
+---------------------------------------
+Items/Qty :   2/ 101
+TOTAL      RS 120.00
+---------------------------------------
+Tendered-CASH             RS     120.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115607
+Date : 14/02/2014     Time: 19:55:46
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BULL BRAND C   1.00     12.00     12.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 12.00
+---------------------------------------
+Tendered-CASH             RS      12.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115608
+Date : 14/02/2014     Time: 19:55:51
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KURKURE 10/-   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115609
+Date : 14/02/2014     Time: 19:59:05
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+I D DOSA BAT   3.00     45.00    135.00
+CARRY BAG      1.00      3.00      3.00
+---------------------------------------
+Items/Qty :   2/   4
+TOTAL      RS 138.00
+---------------------------------------
+Tendered-CASH             RS     150.00
+Change  -CASH             RS      12.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115610
+Date : 14/02/2014     Time: 20:00:59
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+PUTANALU 200   1.00     16.00     16.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 16.00
+---------------------------------------
+Tendered-CASH             RS      16.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115611
+Date : 14/02/2014     Time: 20:04:10
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAYS 20/-      1.00     20.00     20.00
+LAYS 10/-      1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 30.00
+---------------------------------------
+Tendered-CASH             RS      30.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115612
+Date : 14/02/2014     Time: 20:05:45
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KLINOL ACID    1.00     30.00     30.00
+COLIN PUMP 5   1.00     59.00     59.00
+KIWI DRAIN C   1.00     70.00     70.00
+EASY- OFF BA   1.00     64.00     64.00
+ODONIL AIR F   1.00     33.00     33.00
+KIWI KLEEN D   1.00     15.00     15.00
+KIWI KLEEN D   1.00     20.00     20.00
+CHALKPIECS B   1.00     12.00     12.00
+LAYS 10/-      2.00     10.00     20.00
+LAYS 30/-      1.00     30.00     30.00
+CARRY BAG      1.00      3.00      3.00
+---------------------------------------
+Items/Qty :  11/  12
+TOTAL      RS 356.00
+---------------------------------------
+Tendered-CASH             RS     400.00
+Change  -CASH             RS      44.00
+---------------------------------------
+        You have saved RS 3.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115613
+Date : 14/02/2014     Time: 20:08:29
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+TONGUE CLEAN   2.00      8.00     16.00
+KURKURE 10/-   2.00     10.00     20.00
+KNORR SOUPY    2.00     12.00     24.00
+MAGGI PAZZTA   2.00     20.00     40.00
+VAMU 50G       1.00     13.00     13.00
+TETLEY TEA 1   1.00     60.00     60.00
+NIPPO GOLD A   2.00     10.00     20.00
+CARRY BAG      1.00      3.00      3.00
+---------------------------------------
+Items/Qty :   8/  13
+TOTAL      RS 196.00
+---------------------------------------
+Tendered-CASH             RS     195.00
+Tendered-CASH             RS       1.00
+---------------------------------------
+        You have saved RS 5.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115614
+Date : 14/02/2014     Time: 20:11:23
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+LAKME MOISTU   1.00     95.00     95.00
+GROUND NUT 2   1.00     22.00     22.00
+GENERAL        1.00     36.00     36.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL      RS 153.00
+---------------------------------------
+Tendered-CASH             RS     153.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115615
+Date : 14/02/2014     Time: 20:12:41
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+SPRITE 1.2 L   1.00     52.00     52.00
+GOLD DROP SU   1.00     85.00     85.00
+MAGGI MASALA   1.00     20.00     20.00
+KISSAN MIXED   1.00     48.00     48.00
+RATNA CHIKKY   2.00     20.00     40.00
+GROUND NUT 2   1.00     22.00     22.00
+BRITANNIA SA   1.00     26.00     26.00
+CARRY BAG      1.00      3.00      3.00
+---------------------------------------
+Items/Qty :   8/   9
+TOTAL      RS 296.00
+---------------------------------------
+Tendered-CASH             RS     296.00
+---------------------------------------
+        You have saved RS 15.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115616
+Date : 14/02/2014     Time: 20:14:47
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+VODAFONE EAS 155.00      1.00    155.00
+---------------------------------------
+Items/Qty :   1/ 155
+TOTAL      RS 155.00
+---------------------------------------
+Tendered-CASH             RS     155.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115617
+Date : 14/02/2014     Time: 20:17:09
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+VISAKHA DAIR   1.00     42.00     42.00
+MAIDA 200GM    1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 52.00
+---------------------------------------
+Tendered-SODEXO           RS      50.00
+Tendered-CASH             RS       2.00
+---------------------------------------
+        You have saved RS 1.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115618
+Date : 14/02/2014     Time: 20:17:31
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+TATA SALT 1K   1.00     17.00     17.00
+HALDIRAM`S 3   1.00     76.00     76.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 93.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS       7.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115619
+Date : 14/02/2014     Time: 20:19:32
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+IDEA CARD 1/ 320.00      1.00    320.00
+KURKURE 20/-   1.00     20.00     20.00
+LAYS 30/-      1.00     30.00     30.00
+HALDIRAM`S 8   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   4/ 323
+TOTAL      RS 380.00
+---------------------------------------
+Tendered-CASH             RS     500.00
+Change  -CASH             RS     120.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115620
+Date : 14/02/2014     Time: 20:22:59
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+THUMSUP 500M   1.00     35.00     35.00
+LAYS 10/-      1.00     10.00     10.00
+CADBURY PERK   2.00     10.00     20.00
+---------------------------------------
+Items/Qty :   3/   4
+TOTAL       RS 65.00
+---------------------------------------
+Tendered-CASH             RS      65.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115621
+Date : 14/02/2014     Time: 20:25:32
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COCA-COLA 60   1.00     35.00     35.00
+SPRITE 500ML   1.00     35.00     35.00
+HEINZ TOMATO   1.00     45.00     45.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL      RS 115.00
+---------------------------------------
+Tendered-CASH             RS     115.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115622
+Date : 14/02/2014     Time: 20:25:55
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+KINLEY SODA    1.00     18.00     18.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 18.00
+---------------------------------------
+Tendered-CASH             RS      18.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115621
+Date : 14/02/2014     Time: 20:25:32
+
+   Duplicate - 1
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+COCA-COLA 60   1.00     35.00     35.00
+SPRITE 500ML   1.00     35.00     35.00
+HEINZ TOMATO   1.00     45.00     45.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL      RS 115.00
+---------------------------------------
+Tendered-CASH             RS     115.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115623
+Date : 14/02/2014     Time: 20:28:39
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+HALDIRAM`S 8   3.00     10.00     30.00
+LEHAR 30/-     2.00     30.00     60.00
+---------------------------------------
+Items/Qty :   2/   5
+TOTAL       RS 90.00
+---------------------------------------
+Tendered-CASH             RS      90.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115624
+Date : 14/02/2014     Time: 20:29:20
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+DOSA RICE 1K   2.00     36.00     72.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 72.00
+---------------------------------------
+Tendered-CASH             RS      72.00
+---------------------------------------
+        You have saved RS 4.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115625
+Date : 14/02/2014     Time: 20:30:31
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+HALDIRAM`S 8   1.00     10.00     10.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 10.00
+---------------------------------------
+Tendered-CASH             RS      10.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+13TH PHASE, CLUB HOUSE, K.P.H.B,HYD-72
+         PH 67510004,40117773         
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 2   User :VIJAY    Bill :00115626
+Date : 14/02/2014     Time: 20:33:30
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CADBURY ECLA   1.00      1.00      1.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL        RS 1.00
+---------------------------------------
+Tendered-CASH             RS       1.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+     X-Readings Report (Shift-End)     
+---------------------------------------
+14/02/2014 08:41:19 PM P : 2 U:VIJAY
+Shift # 1
+MODE : END-SHIFT
+---------------------------------------
+Sales     (Inclusive TAX)  RS  14525.00
+Item Discount         (-)  RS      0.00
+Overall Discount      (-)  RS      0.00
+Net Sales (Inclusive TAX)  RS  14525.00
+Net Sales (Exclusive TAX)  RS  14247.79
+Cess                       RS      0.00
+Service Charge             RS      0.00
+Other Charge               RS      0.00
+TAX                        RS    277.21
+SURCHARGE                  RS      0.00
+TAX Exempted               RS      0.00
+Tot Sales Collection       RS  14525.00
+Deposit Collected          RS      0.00
+Deposit Refunded      (-)  RS      0.00
+Deposit Forefeited    (-)  RS      0.00
+Deposit Utilised      (-)  RS      0.00
+TOTAL Amount Collected     RS  14525.00
+
+Sales Receipts    0115455-0115626   172
+Training Receipts 0000000-0000000     0
+Manual Receipts   0000000-0000000     0
+Deposit Receipts  0000000-0000000     0
+
+Refund/Exchange        12  RS   1954.00
+Only Negative Amount       RS   1859.00
+Cancellation            0  RS      0.00
+
+No. of Items Sold                   -45
+No. of Void Items                    25
+No. of No-Sale Done                   0
+No. of Price Overrids                18
+No. of Line Discount                  0
+No. of Customers                      0
+No. of Deposit Collected              0
+No. of Deposit Refunded               0
+No. of Deposit Forefeited             0
+No. of Deposit Utilised               0
+---------------------------------------
+V-CARD                 1   RS    391.00
+
+***Total  CARD         1   RS    391.00
+
+CASH                 244   RS  13349.00
+
+***Total  CASH       244   RS  13349.00
+
+SODEXO                 7   RS    785.00
+
+***Total  SODEX        7   RS    785.00
+
+---------------------------------------
+Tax Code     Percentage          Amount
+
+1 EXEMTED        0.00 %   RS       0.00
+2 14.50%        14.50 %   RS     206.69
+4 5%             5.00 %   RS      70.52
+---------------------------------------
+            Tax Total :   RS     277.21
+---------------------------------------
+Cashier             Incl Tax   Excl Tax
+                       Sales      Sales
+
+VIJAY               14525.00   14247.79
+---------------------------------------
+Cashier Total :     14525.00   14247.79
+---------------------------------------
+     *** Currency Declaration ***     
+---------------------------------------
+Sl Curr Curr  Denomi-   Colle-   Amount
+no Code Name  nation    ection         
+---------------------------------------
+  1 RS  CASH 1000.00      2.00  2000.00
+  2 RS  CASH  500.00     17.00  8500.00
+  3 RS  CASH  100.00     64.00  6400.00
+  4 RS  CASH   50.00     18.00   900.00
+  6 RS  CASH   10.00     46.00   460.00
+  7 RS  CASH    5.00     13.00    65.00
+  8 RS  CASH    2.00     22.00    44.00
+  9 RS  CASH    1.00     19.00    19.00
+---------------------------------------
+              Open Balance :    7629.00
+              System Sales :   14525.00
+             --------------------------
+             Total Inward  :   22154.00
+             --------------------------
+             --------------------------
+             Total Outward :       0.00
+             --------------------------
+              System Total :   22154.00
+       Collection short by :   -3766.00
+---------------------------------------
+     *** Short Excess Details ***     
+---------------------------------------
+Pay Group      System  Declare     Diff
+               Amount   Amount   Amount
+---------------------------------------
+CARD        391.00      0.00   -391.00 
+CASH      13349.00  18388.00   5039.00 
+SODEX       785.00      0.00   -785.00 
+---------------------------------------
+Total :  14525.00  18388.00   3863.00 
+---------------------------------------
+              Declared Tot :   18388.00
+              System Total :   14525.00
+---------------------------------------
+              Shortr By    :   -3766.00
+---------------------------------------
+<End of report>
+
+
+
+
+
+
+
+
+
+
+
+
+     X-Readings Report (Shift-End)     
+---------------------------------------
+14/02/2014 08:41:19 PM P : 2 U:VIJAY
+Shift # 1
+MODE : END-SHIFT
+---------------------------------------
+Sales     (Inclusive TAX)  RS  14525.00
+Item Discount         (-)  RS      0.00
+Overall Discount      (-)  RS      0.00
+Net Sales (Inclusive TAX)  RS  14525.00
+Net Sales (Exclusive TAX)  RS  14247.79
+Cess                       RS      0.00
+Service Charge             RS      0.00
+Other Charge               RS      0.00
+TAX                        RS    277.21
+SURCHARGE                  RS      0.00
+TAX Exempted               RS      0.00
+Tot Sales Collection       RS  14525.00
+Deposit Collected          RS      0.00
+Deposit Refunded      (-)  RS      0.00
+Deposit Forefeited    (-)  RS      0.00
+Deposit Utilised      (-)  RS      0.00
+TOTAL Amount Collected     RS  14525.00
+
+Sales Receipts    0115455-0115626   172
+Training Receipts 0000000-0000000     0
+Manual Receipts   0000000-0000000     0
+Deposit Receipts  0000000-0000000     0
+
+Refund/Exchange        12  RS   1954.00
+Only Negative Amount       RS   1859.00
+Cancellation            0  RS      0.00
+
+No. of Items Sold                   -45
+No. of Void Items                    25
+No. of No-Sale Done                   0
+No. of Price Overrids                18
+No. of Line Discount                  0
+No. of Customers                      0
+No. of Deposit Collected              0
+No. of Deposit Refunded               0
+No. of Deposit Forefeited             0
+No. of Deposit Utilised               0
+---------------------------------------
+V-CARD                 1   RS    391.00
+
+***Total  CARD         1   RS    391.00
+
+CASH                 244   RS  13349.00
+
+***Total  CASH       244   RS  13349.00
+
+SODEXO                 7   RS    785.00
+
+***Total  SODEX        7   RS    785.00
+
+---------------------------------------
+Tax Code     Percentage          Amount
+
+1 EXEMTED        0.00 %   RS       0.00
+2 14.50%        14.50 %   RS     206.69
+4 5%             5.00 %   RS      70.52
+---------------------------------------
+            Tax Total :   RS     277.21
+---------------------------------------
+Cashier             Incl Tax   Excl Tax
+                       Sales      Sales
+
+VIJAY               14525.00   14247.79
+---------------------------------------
+Cashier Total :     14525.00   14247.79
+---------------------------------------
+     *** Currency Declaration ***     
+---------------------------------------
+Sl Curr Curr  Denomi-   Colle-   Amount
+no Code Name  nation    ection         
+---------------------------------------
+  1 RS  CASH 1000.00      2.00  2000.00
+  2 RS  CASH  500.00     17.00  8500.00
+  3 RS  CASH  100.00     64.00  6400.00
+  4 RS  CASH   50.00     18.00   900.00
+  6 RS  CASH   10.00     46.00   460.00
+  7 RS  CASH    5.00     13.00    65.00
+  8 RS  CASH    2.00     22.00    44.00
+  9 RS  CASH    1.00     19.00    19.00
+---------------------------------------
+              Open Balance :    7629.00
+              System Sales :   14525.00
+             --------------------------
+             Total Inward  :   22154.00
+             --------------------------
+             --------------------------
+             Total Outward :       0.00
+             --------------------------
+              System Total :   22154.00
+       Collection short by :   -3766.00
+---------------------------------------
+     *** Short Excess Details ***     
+---------------------------------------
+Pay Group      System  Declare     Diff
+               Amount   Amount   Amount
+---------------------------------------
+CARD        391.00      0.00   -391.00 
+CASH      13349.00  18388.00   5039.00 
+SODEX       785.00      0.00   -785.00 
+---------------------------------------
+Total :  14525.00  18388.00   3863.00 
+---------------------------------------
+              Declared Tot :   18388.00
+              System Total :   14525.00
+---------------------------------------
+              Shortr By    :   -3766.00
+---------------------------------------
+<End of report>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
+
+---------------------------------------
+14/02/2014 08:42:03 PM P:2U:VIJAY
+Z-Readings Report
+MODE : END-DAY
+---------------------------------------
+Sales     (Inclusive TAX)  RS  14525.00
+Item Discount         (-)  RS      0.00
+Overall Disc          (-)  RS      0.00
+Net Sales (Inclusive TAX)  RS  14525.00
+Net Sales (Exclusive TAX)  RS  14247.79
+Cess                       RS      0.00
+Service Charge             RS      0.00
+Other Charge               RS      0.00
+TAX                        RS    277.21
+TAX Exempted               RS      0.00
+Tot Sales Collection       RS  14525.00
+Deposit Collected          RS      0.00
+Deposit Refunded      (-)  RS      0.00
+Deposit Forefeited    (-)  RS      0.00
+Deposit Utilised      (-)  RS      0.00
+TOTAL Amount Collected     RS  14525.00
+
+Sales Receipts    0115455-0115626   172
+Training Receipts 0000000-0000000     0
+Manual Receipts   0000000-0000000     0
+Deposit Receipts  0000000-0000000     0
+
+Refund/Exchange       11   RS   1859.00
+Cancellation           0   RS      0.00
+
+No. of Items Sold                   -44
+No. of Void Items                    25
+No. of No-Sale Done                   0
+No. of Price Overrides               18
+No. of Line Discounts                 0
+No. of Customers                      0
+No. of Deposit Collected              0
+No. of Deposit Refunded               0
+No. of Deposit Forefeited             0
+No. of Deposit Utilised               0
+---------------------------------------
+V-CARD                 1   RS    391.00
+
+***Total CARD          1   RS    391.00
+
+CASH                 244   RS  13349.00
+
+***Total CASH        244   RS  13349.00
+
+SODEXO                 7   RS    785.00
+
+***Total SODEX         7   RS    785.00
+
+---------------------------------------
+Tax Code     Percentage          Amount
+
+1 EXEMTED    0.00 %   RS           0.00
+2 14.50%    14.50 %   RS         206.69
+4 5%         5.00 %   RS          70.52
+---------------------------------------
+        Tax Total :   RS         277.21
+---------------------------------------
+<End of report>
+
+
+
+
+
+
+
+
+
+---------------------------------------
+14/02/2014 08:42:03 PM P:2U:VIJAY
+Z-Readings Report
+MODE : END-DAY
+---------------------------------------
+Sales     (Inclusive TAX)  RS  14525.00
+Item Discount         (-)  RS      0.00
+Overall Disc          (-)  RS      0.00
+Net Sales (Inclusive TAX)  RS  14525.00
+Net Sales (Exclusive TAX)  RS  14247.79
+Cess                       RS      0.00
+Service Charge             RS      0.00
+Other Charge               RS      0.00
+TAX                        RS    277.21
+TAX Exempted               RS      0.00
+Tot Sales Collection       RS  14525.00
+Deposit Collected          RS      0.00
+Deposit Refunded      (-)  RS      0.00
+Deposit Forefeited    (-)  RS      0.00
+Deposit Utilised      (-)  RS      0.00
+TOTAL Amount Collected     RS  14525.00
+
+Sales Receipts    0115455-0115626   172
+Training Receipts 0000000-0000000     0
+Manual Receipts   0000000-0000000     0
+Deposit Receipts  0000000-0000000     0
+
+Refund/Exchange       11   RS   1859.00
+Cancellation           0   RS      0.00
+
+No. of Items Sold                   -44
+No. of Void Items                    25
+No. of No-Sale Done                   0
+No. of Price Overrides               18
+No. of Line Discounts                 0
+No. of Customers                      0
+No. of Deposit Collected              0
+No. of Deposit Refunded               0
+No. of Deposit Forefeited             0
+No. of Deposit Utilised               0
+---------------------------------------
+V-CARD                 1   RS    391.00
+
+***Total CARD          1   RS    391.00
+
+CASH                 244   RS  13349.00
+
+***Total CASH        244   RS  13349.00
+
+SODEXO                 7   RS    785.00
+
+***Total SODEX         7   RS    785.00
+
+---------------------------------------
+Tax Code     Percentage          Amount
+
+1 EXEMTED    0.00 %   RS           0.00
+2 14.50%    14.50 %   RS         206.69
+4 5%         5.00 %   RS          70.52
+---------------------------------------
+        Tax Total :   RS         277.21
+---------------------------------------
+<End of report>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i

@@ -1,0 +1,651 @@
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189090
+Date : 29/03/2014     Time: 20:40:53
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BRITANNIA MI   1.00     26.00     26.00
+LIMCA 750ML    1.00     35.00     35.00
+KINLEY SODA    1.00     28.00     28.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL       RS 89.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      11.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+ 13TH PHASE, CLUB HOUSE,K.P.H.B,HYD-72 
+        PH: 67510004, 40117773        
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189091
+Date : 29/03/2014     Time: 20:42:14
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+ODONIL AIR F   1.00     44.00     44.00
+ODONIL AIR F   1.00     40.00     40.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 84.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      16.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+ 13TH PHASE, CLUB HOUSE,K.P.H.B,HYD-72 
+        PH: 67510004, 40117773        
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189092
+Date : 29/03/2014     Time: 20:42:45
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+NESTLE KITKA   1.00     20.00     20.00
+---------------------------------------
+Items/Qty :   1/   1
+TOTAL       RS 20.00
+---------------------------------------
+Tendered-CASH             RS      20.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189093
+Date : 29/03/2014     Time: 20:43:03
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+DABUR VATIKA   1.00    100.00    100.00
+HERITAGE CUR   1.00     40.00     40.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL      RS 140.00
+---------------------------------------
+Tendered-CASH             RS     140.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189094
+Date : 29/03/2014     Time: 20:44:04
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+EGG           12.00      3.00     36.00
+MILK 500ML     1.00     21.00     21.00
+---------------------------------------
+Items/Qty :   2/  13
+TOTAL       RS 57.00
+---------------------------------------
+Tendered-CASH             RS     100.00
+Change  -CASH             RS      43.00
+---------------------------------------
+        You have saved RS 12.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+ 13TH PHASE, CLUB HOUSE,K.P.H.B,HYD-72 
+        PH: 67510004, 40117773        
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189095
+Date : 29/03/2014     Time: 20:45:23
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BADAM FLAVOU   1.00     25.00     25.00
+LAYS 30/-      1.00     30.00     30.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 55.00
+---------------------------------------
+Tendered-CASH             RS      55.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+ 13TH PHASE, CLUB HOUSE,K.P.H.B,HYD-72 
+        PH: 67510004, 40117773        
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189096
+Date : 29/03/2014     Time: 20:46:04
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+VICKS 50G      1.00     90.00     90.00
+TOOR DALL 1K   1.00     84.00     84.00
+MILK 500ML     1.00     21.00     21.00
+---------------------------------------
+Items/Qty :   3/   3
+TOTAL      RS 195.00
+---------------------------------------
+Tendered-CASH             RS     200.00
+Change  -CASH             RS       5.00
+---------------------------------------
+        You have saved RS 2.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+ 13TH PHASE, CLUB HOUSE,K.P.H.B,HYD-72 
+        PH: 67510004, 40117773        
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189097
+Date : 29/03/2014     Time: 20:48:09
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+BUTTERSCOTCH   1.00     20.00     20.00
+VANILLA ICE    1.00     12.00     12.00
+---------------------------------------
+Items/Qty :   2/   2
+TOTAL       RS 32.00
+---------------------------------------
+Tendered-CASH             RS      52.00
+Change  -CASH             RS      20.00
+---------------------------------------
+        You have saved RS 5.00        
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+          VIJAY SUPER MARKET          
+  INDU FORTUNE FIELDS,APARTMENT AREA  
+ 13TH PHASE, CLUB HOUSE,K.P.H.B,HYD-72 
+        PH: 67510004, 40117773        
+         TIN NO - 28847503798         
+
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189098
+Date : 29/03/2014     Time: 20:50:39
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+NESTLE FRESH   1.00     25.00     25.00
+EGG           12.00      4.00     48.00
+---------------------------------------
+Items/Qty :   2/  13
+TOTAL       RS 73.00
+---------------------------------------
+Tendered-CASH             RS       5.00
+Tendered-CASH             RS      68.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+
+i
+
+
+---------------------------------------
+Pos : 3   User :VIJAY    Bill :00189099
+Date : 29/03/2014     Time: 20:51:02
+---------------------------------------
+Description     Qty      Rate    Amount
+---------------------------------------
+CROWN JEERA    2.00     20.00     40.00
+---------------------------------------
+Items/Qty :   1/   2
+TOTAL       RS 40.00
+---------------------------------------
+Tendered-CASH             RS      40.00
+---------------------------------------
+    EXCHANGE`S WITH IN 7 DAYS ONLY    
+    NO CASH REFUND`S inc.all.taxes    
+
+
+
+
+i
+
+
+     X-Readings Report (Shift-End)     
+---------------------------------------
+29/03/2014 08:56:04 PM P : 3 U:VIJAY
+Shift # 1
+MODE : END-SHIFT
+---------------------------------------
+Sales     (Inclusive TAX)  RS    785.00
+Item Discount         (-)  RS      0.00
+Overall Discount      (-)  RS      0.00
+Net Sales (Inclusive TAX)  RS    785.00
+Net Sales (Exclusive TAX)  RS    779.71
+Cess                       RS      0.00
+Service Charge             RS      0.00
+Other Charge               RS      0.00
+TAX                        RS      5.29
+SURCHARGE                  RS      0.00
+TAX Exempted               RS      0.00
+Tot Sales Collection       RS    785.00
+Deposit Collected          RS      0.00
+Deposit Refunded      (-)  RS      0.00
+Deposit Forefeited    (-)  RS      0.00
+Deposit Utilised      (-)  RS      0.00
+TOTAL Amount Collected     RS    785.00
+
+Sales Receipts    0189090-0189101    12
+Training Receipts 0000000-0000000     0
+Manual Receipts   0000000-0000000     0
+Deposit Receipts  0000000-0000000     0
+
+Refund/Exchange         1  RS     42.00
+Cancellation            0  RS      0.00
+
+No. of Items Sold                    45
+No. of Void Items                     1
+No. of No-Sale Done                   0
+No. of Price Overrids                 2
+No. of Line Discount                  0
+No. of Customers                      0
+No. of Deposit Collected              0
+No. of Deposit Refunded               0
+No. of Deposit Forefeited             0
+No. of Deposit Utilised               0
+---------------------------------------
+CASH                  18   RS    785.00
+
+***Total  CASH        18   RS    785.00
+
+---------------------------------------
+Tax Code     Percentage          Amount
+
+1 EXEMTED        0.00 %   RS       0.00
+2 14.50%        14.50 %   RS       4.05
+4 5%             5.00 %   RS       1.24
+---------------------------------------
+            Tax Total :   RS       5.29
+---------------------------------------
+Cashier             Incl Tax   Excl Tax
+                       Sales      Sales
+
+VIJAY                 785.00     779.71
+---------------------------------------
+Cashier Total :       785.00     779.71
+---------------------------------------
+     *** Currency Declaration ***     
+---------------------------------------
+Sl Curr Curr  Denomi-   Colle-   Amount
+no Code Name  nation    ection         
+---------------------------------------
+  3 RS  CASH  100.00     10.00  1000.00
+  4 RS  CASH   50.00     26.00  1300.00
+  5 RS  CASH   20.00      1.00    20.00
+  6 RS  CASH   10.00    238.00  2380.00
+  7 RS  CASH    5.00      3.00    15.00
+  9 RS  CASH    1.00     15.00    15.00
+---------------------------------------
+              Open Balance :    3974.00
+              System Sales :     785.00
+             --------------------------
+             Total Inward  :    4759.00
+             --------------------------
+             --------------------------
+             Total Outward :       0.00
+             --------------------------
+              System Total :    4759.00
+       Collection short by :     -29.00
+---------------------------------------
+     *** Short Excess Details ***     
+---------------------------------------
+Pay Group      System  Declare     Diff
+               Amount   Amount   Amount
+---------------------------------------
+CASH        785.00   4730.00   3945.00 
+---------------------------------------
+Total :    785.00   4730.00   3945.00 
+---------------------------------------
+              Declared Tot :    4730.00
+              System Total :     785.00
+---------------------------------------
+              Shortr By    :     -29.00
+---------------------------------------
+<End of report>
+
+
+
+
+
+
+
+
+
+
+
+
+     X-Readings Report (Shift-End)     
+---------------------------------------
+29/03/2014 08:56:04 PM P : 3 U:VIJAY
+Shift # 1
+MODE : END-SHIFT
+---------------------------------------
+Sales     (Inclusive TAX)  RS    785.00
+Item Discount         (-)  RS      0.00
+Overall Discount      (-)  RS      0.00
+Net Sales (Inclusive TAX)  RS    785.00
+Net Sales (Exclusive TAX)  RS    779.71
+Cess                       RS      0.00
+Service Charge             RS      0.00
+Other Charge               RS      0.00
+TAX                        RS      5.29
+SURCHARGE                  RS      0.00
+TAX Exempted               RS      0.00
+Tot Sales Collection       RS    785.00
+Deposit Collected          RS      0.00
+Deposit Refunded      (-)  RS      0.00
+Deposit Forefeited    (-)  RS      0.00
+Deposit Utilised      (-)  RS      0.00
+TOTAL Amount Collected     RS    785.00
+
+Sales Receipts    0189090-0189101    12
+Training Receipts 0000000-0000000     0
+Manual Receipts   0000000-0000000     0
+Deposit Receipts  0000000-0000000     0
+
+Refund/Exchange         1  RS     42.00
+Cancellation            0  RS      0.00
+
+No. of Items Sold                    45
+No. of Void Items                     1
+No. of No-Sale Done                   0
+No. of Price Overrids                 2
+No. of Line Discount                  0
+No. of Customers                      0
+No. of Deposit Collected              0
+No. of Deposit Refunded               0
+No. of Deposit Forefeited             0
+No. of Deposit Utilised               0
+---------------------------------------
+CASH                  18   RS    785.00
+
+***Total  CASH        18   RS    785.00
+
+---------------------------------------
+Tax Code     Percentage          Amount
+
+1 EXEMTED        0.00 %   RS       0.00
+2 14.50%        14.50 %   RS       4.05
+4 5%             5.00 %   RS       1.24
+---------------------------------------
+            Tax Total :   RS       5.29
+---------------------------------------
+Cashier             Incl Tax   Excl Tax
+                       Sales      Sales
+
+VIJAY                 785.00     779.71
+---------------------------------------
+Cashier Total :       785.00     779.71
+---------------------------------------
+     *** Currency Declaration ***     
+---------------------------------------
+Sl Curr Curr  Denomi-   Colle-   Amount
+no Code Name  nation    ection         
+---------------------------------------
+  3 RS  CASH  100.00     10.00  1000.00
+  4 RS  CASH   50.00     26.00  1300.00
+  5 RS  CASH   20.00      1.00    20.00
+  6 RS  CASH   10.00    238.00  2380.00
+  7 RS  CASH    5.00      3.00    15.00
+  9 RS  CASH    1.00     15.00    15.00
+---------------------------------------
+              Open Balance :    3974.00
+              System Sales :     785.00
+             --------------------------
+             Total Inward  :    4759.00
+             --------------------------
+             --------------------------
+             Total Outward :       0.00
+             --------------------------
+              System Total :    4759.00
+       Collection short by :     -29.00
+---------------------------------------
+     *** Short Excess Details ***     
+---------------------------------------
+Pay Group      System  Declare     Diff
+               Amount   Amount   Amount
+---------------------------------------
+CASH        785.00   4730.00   3945.00 
+---------------------------------------
+Total :    785.00   4730.00   3945.00 
+---------------------------------------
+              Declared Tot :    4730.00
+              System Total :     785.00
+---------------------------------------
+              Shortr By    :     -29.00
+---------------------------------------
+<End of report>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
+
+---------------------------------------
+29/03/2014 08:56:31 PM P:3U:VIJAY
+Z-Readings Report
+MODE : END-DAY
+---------------------------------------
+Sales     (Inclusive TAX)  RS    785.00
+Item Discount         (-)  RS      0.00
+Overall Disc          (-)  RS      0.00
+Net Sales (Inclusive TAX)  RS    785.00
+Net Sales (Exclusive TAX)  RS    779.71
+Cess                       RS      0.00
+Service Charge             RS      0.00
+Other Charge               RS      0.00
+TAX                        RS      5.29
+TAX Exempted               RS      0.00
+Tot Sales Collection       RS    785.00
+Deposit Collected          RS      0.00
+Deposit Refunded      (-)  RS      0.00
+Deposit Forefeited    (-)  RS      0.00
+Deposit Utilised      (-)  RS      0.00
+TOTAL Amount Collected     RS    785.00
+
+Sales Receipts    0189090-0189101    12
+Training Receipts 0000000-0000000     0
+Manual Receipts   0000000-0000000     0
+Deposit Receipts  0000000-0000000     0
+
+Refund/Exchange        1   RS     42.00
+Cancellation           0   RS      0.00
+
+No. of Items Sold                    44
+No. of Void Items                     1
+No. of No-Sale Done                   0
+No. of Price Overrides                2
+No. of Line Discounts                 0
+No. of Customers                      0
+No. of Deposit Collected              0
+No. of Deposit Refunded               0
+No. of Deposit Forefeited             0
+No. of Deposit Utilised               0
+---------------------------------------
+CASH                  18   RS    785.00
+
+***Total CASH         18   RS    785.00
+
+---------------------------------------
+Tax Code     Percentage          Amount
+
+1 EXEMTED    0.00 %   RS           0.00
+2 14.50%    14.50 %   RS           4.05
+4 5%         5.00 %   RS           1.24
+---------------------------------------
+        Tax Total :   RS           5.29
+---------------------------------------
+<End of report>
+
+
+
+
+
+
+
+
+
+---------------------------------------
+29/03/2014 08:56:31 PM P:3U:VIJAY
+Z-Readings Report
+MODE : END-DAY
+---------------------------------------
+Sales     (Inclusive TAX)  RS    785.00
+Item Discount         (-)  RS      0.00
+Overall Disc          (-)  RS      0.00
+Net Sales (Inclusive TAX)  RS    785.00
+Net Sales (Exclusive TAX)  RS    779.71
+Cess                       RS      0.00
+Service Charge             RS      0.00
+Other Charge               RS      0.00
+TAX                        RS      5.29
+TAX Exempted               RS      0.00
+Tot Sales Collection       RS    785.00
+Deposit Collected          RS      0.00
+Deposit Refunded      (-)  RS      0.00
+Deposit Forefeited    (-)  RS      0.00
+Deposit Utilised      (-)  RS      0.00
+TOTAL Amount Collected     RS    785.00
+
+Sales Receipts    0189090-0189101    12
+Training Receipts 0000000-0000000     0
+Manual Receipts   0000000-0000000     0
+Deposit Receipts  0000000-0000000     0
+
+Refund/Exchange        1   RS     42.00
+Cancellation           0   RS      0.00
+
+No. of Items Sold                    44
+No. of Void Items                     1
+No. of No-Sale Done                   0
+No. of Price Overrides                2
+No. of Line Discounts                 0
+No. of Customers                      0
+No. of Deposit Collected              0
+No. of Deposit Refunded               0
+No. of Deposit Forefeited             0
+No. of Deposit Utilised               0
+---------------------------------------
+CASH                  18   RS    785.00
+
+***Total CASH         18   RS    785.00
+
+---------------------------------------
+Tax Code     Percentage          Amount
+
+1 EXEMTED    0.00 %   RS           0.00
+2 14.50%    14.50 %   RS           4.05
+4 5%         5.00 %   RS           1.24
+---------------------------------------
+        Tax Total :   RS           5.29
+---------------------------------------
+<End of report>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
