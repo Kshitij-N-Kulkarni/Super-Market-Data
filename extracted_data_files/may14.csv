@@ -1,4 +1,5 @@
-BillNo,Date,Time,Description,Quantity,Rate,Amount00196012,01/05/2014,20:24:51,EVEREST TIKH,   1.00,     48.00,     48.00
+BillNo,Date,Time,Description,Quantity,Rate,Amount
+00196012,01/05/2014,20:24:51,EVEREST TIKH,   1.00,     48.00,     48.00
 00196013,01/05/2014,20:25:21,BRITANNIA WH,   1.00,     26.00,     26.00
 00196013,01/05/2014,20:25:21,EGG         ,  12.00,      3.50,     42.00
 00196014,01/05/2014,20:26:56,BOOST 200G  ,   1.00,     89.00,     89.00

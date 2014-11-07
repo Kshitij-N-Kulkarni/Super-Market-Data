@@ -1,4 +1,5 @@
-BillNo,Date,Time,Description,Quantity,Rate,Amount00182056,01/03/2014,20:33:46,CARRY BAG   ,   1.00,      2.00,      2.00
+BillNo,Date,Time,Description,Quantity,Rate,Amount
+00182056,01/03/2014,20:33:46,CARRY BAG   ,   1.00,      2.00,      2.00
 00182056,01/03/2014,20:33:46,ONIONS      ,   1.50,     15.00,     22.50
 00182057,01/03/2014,20:39:01,PRIYA REF SU,   1.00,     86.00,     86.00
 00182057,01/03/2014,20:39:01,HERITAGE CUR,   1.00,     40.00,     40.00

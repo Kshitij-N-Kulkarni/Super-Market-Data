@@ -1,4 +1,5 @@
-BillNo,Date,Time,Description,Quantity,Rate,Amount00203283,01/06/2014,20:33:37,CROWN JEERA ,   1.00,     20.00,     20.00
+BillNo,Date,Time,Description,Quantity,Rate,Amount
+00203283,01/06/2014,20:33:37,CROWN JEERA ,   1.00,     20.00,     20.00
 00203283,01/06/2014,20:33:37,HALDIRAM`S 8,   5.00,     10.00,     50.00
 00203284,01/06/2014,20:35:08,CADBURY ECLA,   3.00,      1.00,      3.00
 00203284,01/06/2014,20:35:08,BRITANNIA BO,   1.00,     12.00,     12.00

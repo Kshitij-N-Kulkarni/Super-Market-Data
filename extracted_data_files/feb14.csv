@@ -1,4 +1,5 @@
-BillNo,Date,Time,Description,Quantity,Rate,Amount00174527,01/02/2014,08:59:04,BRITANNIA SA,   1.00,     26.00,     26.00
+BillNo,Date,Time,Description,Quantity,Rate,Amount
+00174527,01/02/2014,08:59:04,BRITANNIA SA,   1.00,     26.00,     26.00
 00174528,01/02/2014,09:04:14,MILK 500ML  ,   1.00,     19.00,     19.00
 00174528,01/02/2014,09:04:14,VIJAYA GROUN,   1.00,     98.00,     98.00
 00174529,01/02/2014,09:05:41,BOOMER      ,   1.00,      6.00,      6.00
